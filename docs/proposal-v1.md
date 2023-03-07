@@ -123,7 +123,7 @@ backgroundColor: #FEFEFC
     1. `수혜자`는 `Dapp`에 접속하여, `Proposal` 양식에 맞춰 기부 프로젝트를 생성한다.
     2. 프로젝트 생성시 자금이 운용될 수 있는 스마트 컨트랙트가 내부적으로 생성된다.
     3. 이후 `기부자`들은 생성된 프로젝트를 선택하여 `스마트 컨트랙트`를 통해 `Dapp`으로 후원금을 전송한다.
-    4. 펀딩 완료시, `Dapp`은 `스마트 컨트랙트`에 따라 수혜자에게 n회차 지원금을 지급한다.
+    4. 펀딩 완료시, `Dapp`은 `스마트 컨트랙트`에 따라 수혜자에게 1회차 지원금을 지급한다.
 
 
 ---
@@ -140,7 +140,7 @@ backgroundColor: #FEFEFC
 
 ![bg left h:600](./images/baokun_hu.png)
 
-- `Baokun Hu`의 논문 "Research on Charity System Based on Blockchain"을 참조하여 시스템 디자인 계획
+- `Baokun Hu`의 논문 "Research on Charity System Based on Blockchain"을 참조하여 시스템 디자인
 - [논문 Link](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072020/pdf)
  
 
