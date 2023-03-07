@@ -10,9 +10,9 @@ backgroundColor: #FEFEFC
 
 ---
 
-![bg left w:330 h:330](./images/A%20logo%20with%20a%20bridge%20without%20text%2C%20abstract%20oil%20pastel%20painting%20style%2C%20circle%20formed.png)
+![bg left w:440 h:440](./images/the_giving_tree_home.png)
 
-# **`i-bridge`**
+# **`The Giving tree`**
 > A transparent charity system based on blockchain.
 
 ---
