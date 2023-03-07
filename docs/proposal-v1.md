@@ -161,3 +161,10 @@ backgroundColor: #FEFEFC
 
 - `SNS-1 token`를 활용한 Dao 투표 서비스 개발
 - `ICP`를 활용한 탈중앙화 Dapp과 스마트 컨트랙트 개발
+- Front
+    - [`Svelte`](https://svelte.dev/)
+    - [`Typescript`](https://www.typescriptlang.org/)
+    - [`Tailwind css`](https://tailwindcss.com/)
+- Server
+    - [`dfinity/ic`](https://github.com/dfinity/ic)
+    - [`Rust`](https://www.rust-lang.org/)
